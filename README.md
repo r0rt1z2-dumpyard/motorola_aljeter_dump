@@ -1,0 +1,19 @@
+## aljeter
+- Manufacturer: motorola
+- Platform: msm8937
+- Codename: aljeter
+- Brand: motorola
+- Flavor: 
+- Release Version: 9
+- Kernel Version: 3.18.120
+- Id: PPPS29.55-35-18-7
+- Incremental: 
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: 
+- OTA version: 
+- Branch: aljeter
+- Repo: motorola_aljeter_dump

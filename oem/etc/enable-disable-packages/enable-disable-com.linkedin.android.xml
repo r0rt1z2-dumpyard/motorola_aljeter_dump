@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.linkedin.android" default_action="disable">
+        <criteria action="enable" channel="retin;retapac;retsea;retid;reteu;reteu2;retgb;retfr;retes;retie;retde;retmea;retma;retmm;retth;openeu"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>

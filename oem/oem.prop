@@ -1,0 +1,11 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=6a0d0
+ro.build.version.ci=7
+ro.mot.build.guid=aadad8b44dca914
+ro.mot.base_buildid=PPP29.55-35-18/f7946
+ro.product.name=aljeter
+ro.mot.build.oem.product=aljeter
+ro.mot.build.customerid=retail
+ro.product.device=aljeter
